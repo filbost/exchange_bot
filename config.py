@@ -1,0 +1,2 @@
+# token
+TELEGRAM_BOT_TOKEN = '6591489956:AAF_mxzMfohjtzgbTu7YxqRuHXcyPvhWXeU'
